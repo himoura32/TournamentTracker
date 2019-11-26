@@ -122,7 +122,7 @@ namespace Tournament
             tm.Prizes = selectedPrizes;
             tm.EnteredTeams = selectedTeams;
 
-            // Wire up the matchups
+            // TODO - Wire up the matchups
 
             // Create Tournament entry.
             // Create all of the prize entries.
