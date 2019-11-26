@@ -1,0 +1,9 @@
+C:\Users\shawn\source\repos\TournamentTracker\CreateTeam\bin\Debug\CreateTeam.exe.config
+C:\Users\shawn\source\repos\TournamentTracker\CreateTeam\bin\Debug\CreateTeam.exe
+C:\Users\shawn\source\repos\TournamentTracker\CreateTeam\bin\Debug\CreateTeam.pdb
+C:\Users\shawn\source\repos\TournamentTracker\CreateTeam\obj\Debug\CreateTeam.csprojAssemblyReference.cache
+C:\Users\shawn\source\repos\TournamentTracker\CreateTeam\obj\Debug\CreateTeam.formCreateTeam.resources
+C:\Users\shawn\source\repos\TournamentTracker\CreateTeam\obj\Debug\CreateTeam.Properties.Resources.resources
+C:\Users\shawn\source\repos\TournamentTracker\CreateTeam\obj\Debug\CreateTeam.csproj.GenerateResource.cache
+C:\Users\shawn\source\repos\TournamentTracker\CreateTeam\obj\Debug\CreateTeam.exe
+C:\Users\shawn\source\repos\TournamentTracker\CreateTeam\obj\Debug\CreateTeam.pdb

@@ -1,0 +1,9 @@
+C:\Users\shawn\source\repos\TournamentTracker\Tournament\bin\Debug\Tournament.exe.config
+C:\Users\shawn\source\repos\TournamentTracker\Tournament\bin\Debug\Tournament.exe
+C:\Users\shawn\source\repos\TournamentTracker\Tournament\bin\Debug\Tournament.pdb
+C:\Users\shawn\source\repos\TournamentTracker\Tournament\obj\Debug\TournamentViewer.csprojAssemblyReference.cache
+C:\Users\shawn\source\repos\TournamentTracker\Tournament\obj\Debug\Tournament.TournamentViewerForm.resources
+C:\Users\shawn\source\repos\TournamentTracker\Tournament\obj\Debug\Tournament.Properties.Resources.resources
+C:\Users\shawn\source\repos\TournamentTracker\Tournament\obj\Debug\TournamentViewer.csproj.GenerateResource.cache
+C:\Users\shawn\source\repos\TournamentTracker\Tournament\obj\Debug\Tournament.exe
+C:\Users\shawn\source\repos\TournamentTracker\Tournament\obj\Debug\Tournament.pdb

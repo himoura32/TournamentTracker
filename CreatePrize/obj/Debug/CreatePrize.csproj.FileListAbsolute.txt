@@ -1,0 +1,9 @@
+C:\Users\shawn\source\repos\TournamentTracker\CreatePrize\bin\Debug\CreatePrize.exe.config
+C:\Users\shawn\source\repos\TournamentTracker\CreatePrize\bin\Debug\CreatePrize.exe
+C:\Users\shawn\source\repos\TournamentTracker\CreatePrize\bin\Debug\CreatePrize.pdb
+C:\Users\shawn\source\repos\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.csprojAssemblyReference.cache
+C:\Users\shawn\source\repos\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.PrizeCreation.resources
+C:\Users\shawn\source\repos\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.Properties.Resources.resources
+C:\Users\shawn\source\repos\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.csproj.GenerateResource.cache
+C:\Users\shawn\source\repos\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.exe
+C:\Users\shawn\source\repos\TournamentTracker\CreatePrize\obj\Debug\CreatePrize.pdb
