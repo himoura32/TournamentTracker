@@ -123,6 +123,7 @@ namespace Tournament
             tm.EnteredTeams = selectedTeams;
 
             // TODO - Wire up the matchups
+            TournamentLogic.CreateRounds(tm);
 
             // Create Tournament entry.
             // Create all of the prize entries.
