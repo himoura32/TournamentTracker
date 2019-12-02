@@ -130,6 +130,8 @@ namespace Tournament
             // Create all of the team entries.
 
             GlobalConfig.Connection.CreateTournament(tm);
+
+            MessageBox.Show("Tournament Created!!", "Tournament created successfully", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

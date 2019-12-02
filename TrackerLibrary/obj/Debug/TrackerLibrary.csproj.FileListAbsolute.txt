@@ -5,4 +5,3 @@ C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xm
 C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
 C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
 C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
-C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache

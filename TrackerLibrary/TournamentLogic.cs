@@ -9,11 +9,6 @@ namespace TrackerLibrary
 {
     public static class TournamentLogic
     {
-        // Order the list randomly - done!
-        // Check if big enough, if not, add in byes
-        // Create first round of matchups
-        // Create every round after that - 8 matchups - 4 matchups - 2 matchups - 1 matchup
-
         public static void CreateRounds(TournamentModel model)
         {
             List<TeamModel> randomizedTeams = RamdomizeTeamOrder(model.EnteredTeams);
@@ -91,7 +86,7 @@ namespace TrackerLibrary
 
         private static int FindNumberOfRounds(int teamCount)
         {
-            int output = 0;
+            int output = 1;
             int val = 2;
 
             while (val < teamCount)
