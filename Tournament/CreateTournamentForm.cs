@@ -132,6 +132,12 @@ namespace Tournament
             GlobalConfig.Connection.CreateTournament(tm);
 
             MessageBox.Show("Tournament Created!!", "Tournament created successfully", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            //txtTournamentName.Clear();
+            //txtEntryFee.Clear();
+            //comboSelectTeam.Items.Clear();
+            //tournamentTeamsListBox.Items.Clear();
+            //prizesListBox.Items.Clear();
         }
     }
 }

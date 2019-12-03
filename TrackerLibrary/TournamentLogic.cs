@@ -31,7 +31,7 @@ namespace TrackerLibrary
             {
                 foreach (MatchupModel match in previousRound)
                 {
-                    currMatchup.Entries.Add(new MatchUpEntryModel { ParentMatchup = match});
+                    currMatchup.Entries.Add(new MatchUpEntryModel { ParentMatchup = match });
 
                     if (currMatchup.Entries.Count > 1)
                     {
