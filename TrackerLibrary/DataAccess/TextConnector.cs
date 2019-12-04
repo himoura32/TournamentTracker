@@ -106,7 +106,7 @@ namespace TrackerLibrary.DataAccess
         /// Save a tournament to a text file.
         /// </summary>
         /// <param name="model"></param>
-        public TournamentModel CreateTournament(TournamentModel model)
+        public void CreateTournament(TournamentModel model)
         {
             List<TournamentModel> tournaments = TournamentFile
                 .FullFilePath()
@@ -122,8 +122,6 @@ namespace TrackerLibrary.DataAccess
 
             tournaments.Add(model);
             tournaments.SaveToTournamentFile(TournamentFile);
-
-            return model;
         }
 
         /// <summary>
