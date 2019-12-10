@@ -48,9 +48,10 @@
             // 
             this.lblTournament.AutoSize = true;
             this.lblTournament.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTournament.Location = new System.Drawing.Point(35, 43);
+            this.lblTournament.Location = new System.Drawing.Point(23, 28);
+            this.lblTournament.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTournament.Name = "lblTournament";
-            this.lblTournament.Size = new System.Drawing.Size(211, 37);
+            this.lblTournament.Size = new System.Drawing.Size(145, 26);
             this.lblTournament.TabIndex = 0;
             this.lblTournament.Text = "Tournament:";
             // 
@@ -58,9 +59,10 @@
             // 
             this.lblRound.AutoSize = true;
             this.lblRound.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblRound.Location = new System.Drawing.Point(36, 112);
+            this.lblRound.Location = new System.Drawing.Point(24, 73);
+            this.lblRound.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblRound.Name = "lblRound";
-            this.lblRound.Size = new System.Drawing.Size(81, 26);
+            this.lblRound.Size = new System.Drawing.Size(57, 18);
             this.lblRound.TabIndex = 1;
             this.lblRound.Text = "Round";
             // 
@@ -68,28 +70,33 @@
             // 
             this.matchupListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.matchupListBox.FormattingEnabled = true;
-            this.matchupListBox.ItemHeight = 26;
-            this.matchupListBox.Location = new System.Drawing.Point(41, 228);
+            this.matchupListBox.ItemHeight = 18;
+            this.matchupListBox.Location = new System.Drawing.Point(27, 148);
+            this.matchupListBox.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.matchupListBox.Name = "matchupListBox";
-            this.matchupListBox.Size = new System.Drawing.Size(449, 368);
+            this.matchupListBox.Size = new System.Drawing.Size(301, 238);
             this.matchupListBox.TabIndex = 3;
+            this.matchupListBox.SelectedIndexChanged += new System.EventHandler(this.matchupListBox_SelectedIndexChanged);
             // 
             // comboRound
             // 
             this.comboRound.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboRound.FormattingEnabled = true;
-            this.comboRound.Location = new System.Drawing.Point(161, 109);
+            this.comboRound.Location = new System.Drawing.Point(107, 71);
+            this.comboRound.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.comboRound.Name = "comboRound";
-            this.comboRound.Size = new System.Drawing.Size(329, 34);
+            this.comboRound.Size = new System.Drawing.Size(221, 26);
             this.comboRound.TabIndex = 4;
+            this.comboRound.SelectedIndexChanged += new System.EventHandler(this.comboRound_SelectedIndexChanged);
             // 
             // checkUnplayed
             // 
             this.checkUnplayed.AutoSize = true;
             this.checkUnplayed.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkUnplayed.Location = new System.Drawing.Point(161, 169);
+            this.checkUnplayed.Location = new System.Drawing.Point(107, 110);
+            this.checkUnplayed.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.checkUnplayed.Name = "checkUnplayed";
-            this.checkUnplayed.Size = new System.Drawing.Size(180, 29);
+            this.checkUnplayed.Size = new System.Drawing.Size(133, 21);
             this.checkUnplayed.TabIndex = 5;
             this.checkUnplayed.Text = "Unplayed Only";
             this.checkUnplayed.UseVisualStyleBackColor = true;
@@ -98,9 +105,10 @@
             // 
             this.lblTeam1.AutoSize = true;
             this.lblTeam1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTeam1.Location = new System.Drawing.Point(590, 228);
+            this.lblTeam1.Location = new System.Drawing.Point(393, 148);
+            this.lblTeam1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTeam1.Name = "lblTeam1";
-            this.lblTeam1.Size = new System.Drawing.Size(179, 26);
+            this.lblTeam1.Size = new System.Drawing.Size(125, 18);
             this.lblTeam1.TabIndex = 6;
             this.lblTeam1.Text = "Sample Team 1";
             // 
@@ -108,27 +116,30 @@
             // 
             this.lblScore1.AutoSize = true;
             this.lblScore1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblScore1.Location = new System.Drawing.Point(590, 292);
+            this.lblScore1.Location = new System.Drawing.Point(393, 190);
+            this.lblScore1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblScore1.Name = "lblScore1";
-            this.lblScore1.Size = new System.Drawing.Size(74, 26);
+            this.lblScore1.Size = new System.Drawing.Size(53, 18);
             this.lblScore1.TabIndex = 7;
             this.lblScore1.Text = "Score";
             // 
             // txtScore1
             // 
             this.txtScore1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtScore1.Location = new System.Drawing.Point(691, 289);
+            this.txtScore1.Location = new System.Drawing.Point(461, 188);
+            this.txtScore1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtScore1.Name = "txtScore1";
-            this.txtScore1.Size = new System.Drawing.Size(133, 32);
+            this.txtScore1.Size = new System.Drawing.Size(90, 24);
             this.txtScore1.TabIndex = 8;
             // 
             // lblVersus
             // 
             this.lblVersus.AutoSize = true;
             this.lblVersus.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblVersus.Location = new System.Drawing.Point(666, 368);
+            this.lblVersus.Location = new System.Drawing.Point(444, 239);
+            this.lblVersus.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblVersus.Name = "lblVersus";
-            this.lblVersus.Size = new System.Drawing.Size(62, 37);
+            this.lblVersus.Size = new System.Drawing.Size(44, 26);
             this.lblVersus.TabIndex = 9;
             this.lblVersus.Text = "VS";
             // 
@@ -136,9 +147,10 @@
             // 
             this.lblTeam2.AutoSize = true;
             this.lblTeam2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTeam2.Location = new System.Drawing.Point(590, 462);
+            this.lblTeam2.Location = new System.Drawing.Point(393, 300);
+            this.lblTeam2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTeam2.Name = "lblTeam2";
-            this.lblTeam2.Size = new System.Drawing.Size(179, 26);
+            this.lblTeam2.Size = new System.Drawing.Size(125, 18);
             this.lblTeam2.TabIndex = 10;
             this.lblTeam2.Text = "Sample Team 2";
             // 
@@ -146,26 +158,29 @@
             // 
             this.lblScore2.AutoSize = true;
             this.lblScore2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblScore2.Location = new System.Drawing.Point(590, 523);
+            this.lblScore2.Location = new System.Drawing.Point(393, 340);
+            this.lblScore2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblScore2.Name = "lblScore2";
-            this.lblScore2.Size = new System.Drawing.Size(74, 26);
+            this.lblScore2.Size = new System.Drawing.Size(53, 18);
             this.lblScore2.TabIndex = 11;
             this.lblScore2.Text = "Score";
             // 
             // txtScore2
             // 
             this.txtScore2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtScore2.Location = new System.Drawing.Point(691, 520);
+            this.txtScore2.Location = new System.Drawing.Point(461, 338);
+            this.txtScore2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtScore2.Name = "txtScore2";
-            this.txtScore2.Size = new System.Drawing.Size(133, 32);
+            this.txtScore2.Size = new System.Drawing.Size(90, 24);
             this.txtScore2.TabIndex = 12;
             // 
             // btnScore
             // 
             this.btnScore.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnScore.Location = new System.Drawing.Point(876, 386);
+            this.btnScore.Location = new System.Drawing.Point(584, 251);
+            this.btnScore.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnScore.Name = "btnScore";
-            this.btnScore.Size = new System.Drawing.Size(106, 52);
+            this.btnScore.Size = new System.Drawing.Size(71, 34);
             this.btnScore.TabIndex = 13;
             this.btnScore.Text = "Score";
             this.btnScore.UseVisualStyleBackColor = true;
@@ -174,17 +189,18 @@
             // 
             this.lblTournamentName.AutoSize = true;
             this.lblTournamentName.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTournamentName.Location = new System.Drawing.Point(252, 43);
+            this.lblTournamentName.Location = new System.Drawing.Point(168, 28);
+            this.lblTournamentName.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTournamentName.Name = "lblTournamentName";
-            this.lblTournamentName.Size = new System.Drawing.Size(132, 37);
+            this.lblTournamentName.Size = new System.Drawing.Size(92, 26);
             this.lblTournamentName.TabIndex = 14;
             this.lblTournamentName.Text = "<none>";
             // 
             // TournamentViewerForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1076, 684);
+            this.ClientSize = new System.Drawing.Size(717, 445);
             this.Controls.Add(this.lblTournamentName);
             this.Controls.Add(this.btnScore);
             this.Controls.Add(this.txtScore2);
@@ -199,6 +215,7 @@
             this.Controls.Add(this.matchupListBox);
             this.Controls.Add(this.lblRound);
             this.Controls.Add(this.lblTournament);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "TournamentViewerForm";
             this.Text = "View Tournament";
             this.ResumeLayout(false);

@@ -1,11 +1,3 @@
-C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
-C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
-C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
-C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
-C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
-C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
-C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
-C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
 C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
 C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
 C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
@@ -14,3 +6,10 @@ C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLi
 C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
 C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
 C:\Users\shawn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\sahearn\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb

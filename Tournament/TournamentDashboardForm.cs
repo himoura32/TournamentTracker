@@ -33,5 +33,12 @@ namespace Tournament
             CreateTournamentForm frm = new CreateTournamentForm();
             frm.Show();
         }
+
+        private void btnLoadTournament_Click(object sender, EventArgs e)
+        {
+            TournamentModel tm = (TournamentModel)comboLoadExistingTournament.SelectedItem;
+            TournamentViewerForm frm = new TournamentViewerForm(tm);
+            frm.Show();
+        }
     }
 }
